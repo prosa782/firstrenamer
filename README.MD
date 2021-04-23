@@ -4,9 +4,9 @@ A simple Renamer bot with permenent thumbnail support
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
 Please fork this repository don't import code
 Made with Python3
-(C) @Clinton-Abraham
+(C) @ @bluv-pr
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/SPACE-X-BOTS/RENAME-X2-BOT/blob/master/LICENSE
+License -> https://github.com/bluv-pr/TN57-Renamer-Bot/blob/master/LICENSE
 ```
 
 ### Variables
@@ -23,14 +23,14 @@ License -> https://github.com/SPACE-X-BOTS/RENAME-X2-BOT/blob/master/LICENSE
 * `rename_video` - Rename telegram videos
 * `rename` -  Rename telegram files
 * `convert` - Convert file to video
-* `sthumbnail` - Current Thumbnail
-* `dthumbnail` - Delete thumbnail
+* `savethumb` - Current Thumbnail
+* `delthumb` - Delete Thumbnail
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/SPACE-X-BOTS/RENAME-X2-BOT)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/bluv-pr/TN57-Renamer-Bot)
 
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Shrimadhav UK](https://github.com/SpEcHIDe)
-* [Clinton Abraham](https://github.com/Clinton-Abraham)
+
