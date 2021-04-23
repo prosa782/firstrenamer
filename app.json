@@ -1,12 +1,12 @@
 {
-  "name": "RENAME X2 BOT",
+  "name": "TN57_Renamer_Bot",
   "description": "",
   "keywords": [
     "Rename"
   ],
-  "success_url": "https://t.me/RENAME_X2_BOT",
-  "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/RENAMER-BOT",
+  "success_url": "http://t.me/TN57_Renamer_Bot",
+  "website": "https://github.com/bluv-pr",
+  "repository": "https://github.com/bluv-pr/TN57-Renamer-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
