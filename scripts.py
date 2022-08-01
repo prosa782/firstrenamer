@@ -19,14 +19,14 @@ Delete your thumbnail do /delthumb command"""
 
     ABOUT_TEXT = """
 <b>My Name🤭 :</b> <a href='http://t.me/TN57_Renamer_Bot'>TN57 Renamer BoT</a>\n
-<b>Channel :</b> <a href='https://t.me/TN57_BotZ'>TN57_BotZ</a>\n
+<b>Channel :</b> <a href='https://t.me/+g8H_W9Y6FB1iYzg1</a>\n
 <b>Version :</b> <a href='http://t.me/TN57_Renamer_Bot'>0.9.2 beta</a>\n
-<b>Source :</b> <a href='https://t.me/BLuVDS'>Click Here</a>\n
+<b>join :</b> <a href='https://t.me/+g8H_W9Y6FB1iYzg1'>Click Here</a>\n
 <b>Server :</b> <a href='https://heroku.com'>Heroku</a>\n
 <b>Library :</b> <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a>\n
 <b>Language :</b> <a href='https://www.python.org'>Python 3.9.4</a>\n
-<b>Developer :</b> <a href='https://t.me/BLuVDS'>✯ °•Bᴀʟᴀᴊɪ•° ✯</a>\n
-<b>Support Group :</b> <a href='https://t.me/TN57_BotzSupport'>TN57_BotZ Support</a>\n"""
+<b>Developer :</b> <a href='https://t.me/Anonymousbro36'>✯ °•anoop° ✯</a>\n
+<b>Support  :</b> <a href='https://t.me/Anonymousbro36'>support</a>\n"""
 
 
     CUSTOM_CAPTION = "<i>{}</i>"
@@ -50,4 +50,4 @@ Delete your thumbnail do /delthumb command"""
     CONTACT_MY_DEVELOPER = "Something Wrong Contact My Developer 🤕"
     REPLY_TO_VIDEO = "Reply to that file with /rename_video Newname.mkv"
     START_TEXT = "Exclusive ! 📝 Rename Bot With Permanent Thumbnail Support!!!✔️\nBot By @TN57_BotZ 🤓"
-    UPGRADE_TEXT = "To upgrade your subscription <a href='https://t.me/BLuVDS'>[ Click Here ]</a>"
+    UPGRADE_TEXT = "To upgrade your subscription <a href='https://t.me/Anonymousbro36'>[ Click Here ]</a>"
