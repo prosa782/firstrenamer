@@ -5,8 +5,8 @@
     "Rename"
   ],
   "success_url": "http://t.me/TN57_Renamer_Bot",
-  "website": "https://github.com/bluv-pr",
-  "repository": "https://github.com/bluv-pr/TN57-Renamer-Bot",
+  "website": "https://github.com/prosa782/firstrenamer",
+  "repository": "https://github.com/prosa782/firstrenamer",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
